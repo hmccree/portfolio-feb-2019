@@ -7,7 +7,7 @@ header {
 }
 p {
     margin-left: 2%;
-    color: #3A405A;
+    color: #40434E;
 }
 body {
     background-color: #EBEBEB;
@@ -50,4 +50,9 @@ div {
 
 .sidenav a:hover {
   color: #AFCEFF;
+}
+img {
+    margin-left: 2%;
+    width: 640px;
+    height: 340px;
 }
